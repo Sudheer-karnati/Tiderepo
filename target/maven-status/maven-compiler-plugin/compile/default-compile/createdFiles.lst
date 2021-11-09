@@ -1,0 +1,4 @@
+com\mindtree\PageObjects\LandingPage.class
+com\mindtree\Reusuable\WebDriverHelper.class
+com\mindtree\Runner\TideRunner.class
+com\mindtree\UIstore\LandingPageUI.class
